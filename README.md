@@ -1,6 +1,6 @@
 # Word2Vec
 
-![Word2Vec]("word2vec.webp")
+![Word2Vec](word2vec.webp)
 
 
 Word2Vec is a popular algorithm for learning vector representations of words from large datasets of text. It was introduced in a 2013 paper by Tomas Mikolov and his colleagues at Google.
