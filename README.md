@@ -4,6 +4,8 @@
 
 #### This operation can be interpreted as "finding the word that is similar to 'man' and 'woman', but is the opposite of 'king' i.e. Queen
 
+![Embedding](king-man.png)
+
 
 Word2Vec is a popular algorithm for learning vector representations of words from large datasets of text. It was introduced in a 2013 paper by Tomas Mikolov and his colleagues at Google.
 
