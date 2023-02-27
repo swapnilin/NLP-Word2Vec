@@ -1,5 +1,8 @@
 # Word2Vec
 
+![alt text](image_path "./word2vec")
+
+
 Word2Vec is a popular algorithm for learning vector representations of words from large datasets of text. It was introduced in a 2013 paper by Tomas Mikolov and his colleagues at Google.
 
 The basic idea behind Word2Vec is to learn a low-dimensional vector representation, or embedding, for each word in a corpus. These embeddings are learned by training a neural network on a large corpus of text, with the objective of predicting the context in which each word appears.
